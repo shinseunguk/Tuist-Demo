@@ -4,7 +4,7 @@ project:
 	tuist install
 	tuist generate --no-open
 #	pod install
-	open RaceOn.xcworkspace
+	open Tuist-Demo.xcworkspace
 g:
 	tuist generate --no-open
 #	pod install
@@ -13,4 +13,4 @@ e:
 o:
 	tuist generate --no-open
 #	pod install
-	open RaceOn.xcworkspace
+	open Tuist-Demo.xcworkspace
