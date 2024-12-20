@@ -10,7 +10,7 @@ import ProjectDescriptionHelpers
 import UtilityPlugin
 
 let workspace = Workspace(
-    name: "RaceOn",
+    name: "Tuist-Demo",
     projects: [
         "Tuist-Demo/**"
     ]
